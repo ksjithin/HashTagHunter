@@ -1,0 +1,16 @@
+.Header {}
+
+#one ul {    
+    display: inline;
+ }
+
+#one li {
+    padding: 10px;
+    display: inline;
+    font-family: "Lucida Console", Courier, monospace;
+    text-transform: uppercase;
+    font-size: 150%;
+  }
+
+
+
